@@ -2,11 +2,11 @@
   "name": "discord-bot-files",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "werdant-bot/index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node werdant-bot/index.js",
     "pm2:start": "pm2 start ecosystem.config.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo "Error: no test specified" && exit 1"
   },
   "keywords": [],
   "author": "",
